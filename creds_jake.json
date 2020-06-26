@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "claustrum-morphology",
+  "private_key_id": "d2779fbe3a0d53ef6e047fff0c52d6bfb33e1bcc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvnMbdIdtasXaL\nVerH/qe57//y3bXFHMjEPIgi/4G4Yri1FzsRr5qU/1G4tbbqn/EhSHgYlp591Bu0\n4D5KGInXUEm/K/L9U21IYJDFdSKvITF1dDQhfqctm+qgKhxortQnz/vhO094i79F\nfc0y8O1J6uWS8Fm/DAj01tFWMRwdWXo6wRPVjldgieQegD+AMLQ7Z9OSz+9MLfHb\n/zT5Q99hIcw93IDyBLIiBXzSwNoambqCZrUBJ8wPP+id1wOt575K1K8RAmq6nGp6\nAZy28yquxOl3KkWBm/LZ/FUAiXyuqwJLrsyXOtCJgb09FExtSKMQedV+s2mu7sGA\nrYrhpN7bAgMBAAECggEAEl8MTsXj9LDr/deXICT71u/MjtOy2FQSjLToaQDhyTBK\nsmcjvs3oFf4/xlr8L79bsmeqaKgZHIC8BUgQPCAlC2lSzbUDTo0TuaagfoeqgTev\nvOHTMk3Vn2fYO7ksD6d6ek+/weg6gBnegJ6QgOvDZyAztBOA0AOqTDLM439vuYIe\nNI4Jp+g97rKAi52jMx3vmv7dASMCHchby7kFqObdcybv/KviVt0nIYP5Xgx8uKij\nli5mYcsHp7UElMPPlHR3mf2aiDPNJL4DwX4S6NQkgwTHgljEKc97UUZXeoAP0C4m\n2WnfQqiG0YZmN9ev6nXzom818fOe0+BDEmeE2Ge2gQKBgQDrW5xfaPy3FlHtgxAZ\n0B4g5uMzbsOlVkF+wKvzkTY3ulNLectYlsK3U5hfyFW/a8lvHdj2Br+PIpv2YvcC\nV37CmRF0MZpLl+mE4rB0dfMV4hStoqgTGy1DX3ZTnvRjDFar9fFTnqpNk21Sg0Qs\nFYPtudUZr9xORgPnbpT/Jfn2KQKBgQC/A7ohO86lG+a9n2OlNidiTk1c7frXhdAD\nPAEOjYXM6nOTc0TfXfcTpkhDf+TgiiuLED3RfcoptE6m4wmpzb7cr3osncBXkpl8\nwpAFpM6X96fGd5j0eDggqfUZi7f2rNxKGpE8woE4zY7mdciq3fjBkkfRkiRyDnC3\nUeypm4jlYwKBgQCR1RHvjH4KdCoPoUY4uFvyxx3AoMFZkTjD8V6abT/LCAjUm4ME\nQWYlcgbYUqnPElqeH0BwMX5AkpFQ+cFUEiLZMT8/X/zbGiX30P7FKtCUnqFxdXfv\nXseNF3maFsQXG24Y3yvJRGcB6neyyONU7X/xrVP9tporZfbFUB/CeSWJAQKBgQC2\neMsAIHABjivYjUDVfGwXHxIMalKsPGpADLw9uLhOztFl1EHA17TGEp0Jzk1IqvV5\nvSQw0eej+1j/V/fNPHzNuNwPbwtlHOh/JCYNHik1RyIBGBMHxyhnG7TGmJA+l1dB\neyuvTWfAaa3PPklZ4P5XfHQbIW6rflvy49IfHDOkXQKBgB5Yh61kpG9bQpfFNFtw\nXvifX9U8wfLAU6OfbvKqUpqzmysX1HmH5OrVESBS7ywv4RS/LFqhlTPh4kRvB/S+\nkU5EfDBvvpsh9GKms5gxJE7KeFmf0XzBkBuZy1d4qbDDd83BsU3J2BMr/FqXFQk5\nVIMqkcKB9uJN48U7LjwcuhHp\n-----END PRIVATE KEY-----\n",
+  "client_email": "jakeswann@claustrum-morphology.iam.gserviceaccount.com",
+  "client_id": "108700604512769749330",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jakeswann%40claustrum-morphology.iam.gserviceaccount.com"
+}
