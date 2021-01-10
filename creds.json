@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "claustrum",
+  "private_key_id": "4aba4bf04e4bb2975c1d71edbbae3ff7eb5b2f62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCiO3AixSty6zhF\nGo5SCtqaNzkx6rCQce0cuWV8hxTIlBlVpbhiVvhggzxJhYheV/+7pJ96VodH1EFx\nD2dqcxNqDRPy4iAn1/tVVQwijqeBEDGrU7rR+2Wsms/Knmnd91DH4DoKKAxt0VwB\nDxDLdznq4l/dRAgHnaueqx+gtRN53jU0e42gvS5wKTgWzNNJrf6+cDy5ck0fapXl\nwHquO7efyi3TLA9miZcgscEUv+Um8twqiCyMoYunJPRdlWaNeB1jLjqj6Hyg5JSA\n7OGW4fYfizqLyE4ycTo4z+G9BGENgwK2kn54ikDpvSJ333w1KVwIvK6Gh75z9YsP\nQsnrfBbPAgMBAAECggEAP+2OHZV2rp00Gj8BsCCozbZPKnVhyDmshvIjpLOSJAwA\nA7j+9Hly/I0aV5pwB0VD98xCL7IjMtHYS9YXGWJpVxP6NW6X3zuDxbdyxbdTGE+q\nUun2p0Iaaa7DjQNpklcflPOty0zGwQuL5rrqElNUFlPIFOf3BhFCjI7AMtLH7vBZ\nDpveY3MzWtNdWwFIoOhEJoXlCf87wAvazjzsDZcF/+lonORZ8ZEptKSIiNKB7/W5\nslGxmiypgiQJ+v+t7hAl4qk8plvWH0l7Ynk+VZYwqakhjpRIQzkmi6lRjx5glEVl\n4rL+39T6ceBjG5Wk/OADyH1dWRDCu0yfV3wkLYxeyQKBgQDcE6e+QiSbDRYdBid4\n2y1WnFklVkXDCazG7GVnsYvrJUBvb41SLW3WzEHJo0LQxsSOmbWx2u+R+Osj21H6\nAMgYrgf+ekjqRZqjIkELlHShKpB7PDnn8FAhJ143LgnH+B1Besu3Eu2VHMFpMmZc\nOhnPUg9KAnrOGygh53lcgQIi4wKBgQC8tqGpLAteZwXSF7ovD5kFpLYyhR909700\njORLkxgRAcuR5a1m5IVSGcAzGvp/6nV7GFjecFO8m/sQldWy+SI3GL4oGlpJLbQV\nUHhC3UxUVXu9zAYeainNwIG5EQ5oKsKMNWTN5D2S+vX7/D1BYccmP8VaigluhHH8\n5VYGahCEJQKBgQCrkB8KcOG8hd0hTzTiQGr9w/Cy7KiBvT8V7B+5UG21KFstBBd1\nYrjn5F+84yspOmrsh+Ne/UAZ2aTlVQp5DLbwlmrg9U92YkCEwCVY86hgI6BykabK\nq0qsLdaCyb8SRtf3vdSlqXnQ7pPQgFvPtfN87YnBtmEp333PwHWZqXCS5QKBgQCU\nZQzkqeTavCqgldXrkdljza0UNwiQgwt+mlgfcbDYFtBMjw53PbX05Jj11v4qvmTZ\ngkDH0g6W3xVjal+cGDqmlsdZY7ehmdXleNzIv5p5KqteiWQ6YIM0729S5y2sDgvk\nE0yMdzFQNhZeq3BDzK68ziLT2n4mMPItyu2Fp7wLHQKBgQCsmhbzuGhhvyhfntBr\ngeUw975g3zfMC46aV2lizXgFIqdHE42bRSkMolSakeITWfg3rN6p0vg4UyDsTxIp\n2OpELlnOQ4yBtCli/uYm4KV+Ik8x2OJJ+AP8ef8x7H5ZPLWHz/a686dtyL72VfgI\n8RJlyySfNDLRETX9D8v/L+Iosg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "morphology@claustrum.iam.gserviceaccount.com",
+  "client_id": "105364443061316381525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/morphology%40claustrum.iam.gserviceaccount.com"
+}

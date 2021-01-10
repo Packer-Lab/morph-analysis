@@ -26,7 +26,9 @@ def get_mouseID(datapath):
     celltemp = datapath.split('_')[3]
     cellraw = r'{}'.format(celltemp)
     cell = cellraw.split("\\")[0]
+    cell=cell.replace("0","")
     mouseID = mouse + ': ' + cell
+    
 
     return mouseID
 
